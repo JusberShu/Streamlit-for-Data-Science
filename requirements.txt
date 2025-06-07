@@ -20,3 +20,4 @@ google-cloud-bigquery
 db-dtypes
 openai
 streamlit-plotly-events
+snowflake
